@@ -2,7 +2,8 @@
 gems:
   - jemoji
   - jekyll-paginate
-
+include:
+  - ".assets"
 # Site settings
 title: "La0D3ng💡💡💡"
 description: > # this means to ignore newlines until "email:"
